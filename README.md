@@ -2,7 +2,7 @@ BOAT Website Clone
 This project is a clone of the BOAT Lifestyle website, developed using only HTML and CSS. The focus is on replicating the user interface (UI) and layout of the BOAT website to demonstrate proficiency in front-end web development with responsive design principles.
 
 Demo
-You can view a live demo of the BOAT website clone here 
+You can view a live demo of the BOAT website clone here: https://naitikraj.github.io/Boat-Clone-/
 
 Features
 Fully responsive design across devices.
